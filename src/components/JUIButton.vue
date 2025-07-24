@@ -38,8 +38,4 @@
   border-radius: 4px;
   cursor: pointer;
 }
-
-button-component:hover {
-  opacity: 0.8;
-}
 </style>

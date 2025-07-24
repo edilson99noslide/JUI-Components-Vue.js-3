@@ -1,15 +1,13 @@
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
 
-  color-scheme: light dark;
-  color: rgba(255, 255, 255, 0.87);
-  background-color: #242424;
-
   display: flex;
   justify-content: center;
   align-items: center;
   height: 100vh;
   text-align: center;
+
+  --color-primary: #251351;
 
   .bg-primary {
     background: #251351;
